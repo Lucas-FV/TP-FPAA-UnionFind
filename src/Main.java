@@ -24,9 +24,9 @@ public class Main {
             System.out.println(n + ",UnionByRank," + timeRank);
 
             // TODO: Teste 3 - Full Tarjan entrará aqui depois
-            // DisjointSet tarjan = new FullTarjanDSU(n);
-            // long timeTarjan = runWorstCaseExperiment(tarjan, n, numFinds);
-            // System.out.println(n + ",FullTarjan," + timeTarjan);
+            DisjointSet tarjan = new FullTarjanDSU(n);
+            long timeTarjan = runWorstCaseExperiment(tarjan, n, numFinds);
+            System.out.println(n + ",FullTarjan," + timeTarjan);
         }
     }
 
