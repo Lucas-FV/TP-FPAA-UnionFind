@@ -1,9 +1,9 @@
 # 🌳 Conectividade Dinâmica: Análise de Desempenho do Union-Find
 
-**Curso:** Engenharia de Software
-**Disciplina:** Fundamentos de Projeto e Análise de Algoritmos (FPAA) - 2026/1
-**Professor:** João Pedro O. Batisteli
-**Alunos:** Andre Xavier, João Pedro Guimarães, Lucas Vilela, Marina Cabalzar
+- **Curso:** Engenharia de Software
+- **Disciplina:** Fundamentos de Projeto e Análise de Algoritmos (FPAA) - 2026/1
+- **Professor:** João Pedro O. Batisteli
+- **Alunos:** Andre Xavier, João Pedro Guimarães, Lucas Vilela, Marina Cabalzar
 
 ---
 
