@@ -38,4 +38,4 @@ Para reproduzir os experimentos e testar as estruturas:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/seu-usuario/nome-do-repo.git)
+   git clone [https://github.com/Lucas-FV/TP-FPAA-UnionFind.git)
